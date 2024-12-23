@@ -46,7 +46,7 @@ Como executar o projeto localmente
 
 	2. Abra o projeto no IntelliJ 
 
-	3. Execute a aplicação utilizando a classe Application.java como ponto de 		entrada 
+	3. Execute a aplicação utilizando a classe Application.java como ponto de entrada 
 
 	4. A API estará disponível em http://localhost:8080 
 
