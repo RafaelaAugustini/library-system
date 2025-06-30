@@ -2,7 +2,7 @@
 
 Sistema para gerenciamento de livros de uma biblioteca municipal, com back-end e front-end integrados.
 
-Projeto desenvolvido como parte do curso de Desenvolvimento com Python na UNIFECAF.
+Projeto desenvolvido como parte do curso de Análise e Desenvolvimento de Sistemas na FECAF.
 
 ---
 
